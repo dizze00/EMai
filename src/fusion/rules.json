@@ -1,0 +1,107 @@
+[
+  {
+    "contains": ["hej", "tjena", "hallå", "hi", "hello", "hey"],
+    "emotion": "happy",
+    "meaning": "Friendly greeting"
+  },
+  {
+    "contains": ["hej", "tjena", "hallå", "hi", "hello", "hey"],
+    "emotion": "sad",
+    "meaning": "Sad greeting"
+  },
+  {
+    "contains": ["hej", "tjena", "hallå", "hi", "hello", "hey"],
+    "emotion": "angry",
+    "meaning": "Irritated greeting"
+  },
+
+  {
+    "contains": ["okej", "ok", "mm", "okay", "alright", "fine"],
+    "emotion": "angry",
+    "meaning": "User says okay but is angry"
+  },
+  {
+    "contains": ["okej", "ok", "mm", "okay", "alright", "fine"],
+    "emotion": "sad",
+    "meaning": "User says okay but sounds sad"
+  },
+
+  {
+    "contains": ["jag är", "jag känner mig", "i am", "i feel"],
+    "emotion": "sad",
+    "meaning": "User describes themselves but sounds sad"
+  },
+  {
+    "contains": ["jag är", "jag känner mig", "i am", "i feel"],
+    "emotion": "angry",
+    "meaning": "User describes themselves but sounds angry"
+  },
+
+  {
+    "contains": ["varför", "hur", "vad", "why", "how", "what"],
+    "emotion": "angry",
+    "meaning": "User asks a question with anger"
+  },
+  {
+    "contains": ["varför", "hur", "vad", "why", "how", "what"],
+    "emotion": "sad",
+    "meaning": "User asks a question with sadness"
+  },
+
+  {
+    "contains": ["snälla", "kan du", "hjälp", "please", "can you", "help"],
+    "emotion": "sad",
+    "meaning": "User is asking for help with sadness"
+  },
+
+  {
+    "contains": ["sluta", "stopp", "nej", "stop", "no", "don't"],
+    "emotion": "angry",
+    "meaning": "User is rejecting something angrily"
+  },
+
+  {
+    "contains": ["tack", "tack så mycket", "thank you", "thanks"],
+    "emotion": "happy",
+    "meaning": "Grateful and positive"
+  },
+  {
+    "contains": ["tack", "tack så mycket", "thank you", "thanks"],
+    "emotion": "sad",
+    "meaning": "Grateful but sad"
+  },
+
+  {
+    "contains": ["fan", "helvete", "jävla", "fuck", "shit", "damn"],
+    "emotion": "angry",
+    "meaning": "User is swearing angrily"
+  },
+
+  {
+    "contains": ["jag vet inte", "osäker", "kanske", "i don't know", "unsure", "maybe"],
+    "emotion": "sad",
+    "meaning": "User is uncertain and sad"
+  },
+  {
+    "contains": ["jag vet inte", "osäker", "kanske", "i don't know", "unsure", "maybe"],
+    "emotion": "calm",
+    "meaning": "User is uncertain but calm"
+  },
+
+  {
+    "contains": ["wow", "shit", "seriöst", "wow", "seriously", "no way"],
+    "emotion": "excited",
+    "meaning": "User is surprised or excited"
+  },
+
+  {
+    "contains": ["jag mår bra", "det är bra", "i'm good", "i feel good"],
+    "emotion": "happy",
+    "meaning": "User says they feel good and sounds happy"
+  },
+  {
+    "contains": ["jag mår bra", "det är bra", "i'm good", "i feel good"],
+    "emotion": "sad",
+    "meaning": "User says they feel good but sounds sad"
+  }
+]
